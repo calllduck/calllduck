@@ -27,5 +27,5 @@ Coming from a CS background, I'm now exploring software engineering, security, a
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=calllduck&show_icons=true&theme=dark" alt="GitHub Stats" width="400" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calllducklayout=compact&theme=dark" alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calllduck&layout=compact&theme=dark" alt="Top Languages" width="400" />
 </p>
