@@ -46,12 +46,12 @@ Coming from a CS background, I'm now exploring software engineering, security, a
 
 ### Kettin's Stats:
 
-<table>
-  <tr>
-    <td align="center" width="50%">
+<table style="border: none; background: transparent;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none; background: transparent;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=calllduck&theme=tokyonight&hide_border=true" />
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="50%" style="border: none; background: transparent;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calllduck&layout=compact&theme=tokyonight&hide_border=true" />
     </td>
   </tr>
