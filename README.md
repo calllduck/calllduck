@@ -1,6 +1,6 @@
 # Hi, You Can Call Me Ke'in 👋
 
-### ✦ Things I build
+### Things I build
 `Software Development` `Cyber Security` `DevSecOps` `UI/UX`
 
 🌐 Personal Website: [KettinPotfolio](https://calllduck.github.io/keinPortfolio/) <br>
