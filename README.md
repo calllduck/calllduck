@@ -3,8 +3,8 @@
 ### ✦ Things I build
 `Software Development` `Cyber Security` `DevSecOps` `UI/UX`
 
-🌐 Personal Website: [KettinPotfolio](https://calllduck.github.io/keinPortfolio/)
-💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kettin/)  
+🌐 Personal Website: [KettinPotfolio](https://calllduck.github.io/keinPortfolio/) <br>
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/kettin/) <br>
 📬 Mail: [kettin@binus.ac.id](mailto:kettin@binus.ac.id)
 
 Coming from a CS background, I'm now exploring software engineering, security, and design.
