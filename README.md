@@ -46,7 +46,9 @@ Coming from a CS background, I'm now exploring software engineering, security, a
 
 ### Kettin's Stats:
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=calllduck&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calllduck&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+### 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=calllduck&theme=tokyonight&hide_border=true&height=195" height="195" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calllduck&layout=compact&theme=tokyonight&hide_border=true" height="195" />
 </p>
